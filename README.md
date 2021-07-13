@@ -1,6 +1,6 @@
 💻 Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em informática no Cotuca, desde então, adquiri alguns anos de experiência em programação atuando como desenvolvedor Java EE. 
 
-📚 Faço Tecnologia em Análise e Desenvolvimento de Sistemas desde o segundo semestre de 2021 na Unisal aqui em Campinas-SP.
+📚 Faço Tecnologia em Análise e Desenvolvimento de Sistemas desde o 2° semestre de 2021 na Unisal aqui em Campinas-SP.
 
 🌱 Estou estudando para me tornar um bom desenvolvedor front-end com foco em JavaScript, TypeScript e ReactJS. 
 
