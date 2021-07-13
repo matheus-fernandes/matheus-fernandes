@@ -1,4 +1,4 @@
-😀 Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em informática no Cotuca. Desde então, adquiri alguns anos de experiência em programação atuando como desenvolvedor Java EE. 
+💻 Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em informática no Cotuca, desde então, adquiri alguns anos de experiência em programação atuando como desenvolvedor Java EE. 
 
 📚 Faço Tecnologia em Análise e Desenvolvimento de Sistemas desde o segundo semestre de 2021 na Unisal aqui em Campinas-SP.
 
