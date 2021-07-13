@@ -1,4 +1,4 @@
-Sou programador WEB e iniciei meus estudos de programção em 2014 quando ingressei no curso técnico em Informática no Colégio Técnico da Unicamp. 
+Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em Informática no Colégio Técnico da Unicamp. 
 Portanto, tenho alguns anos de experiência em programação e já atuei como desenvolvedor Java EE. Sou estudante do curso superior de tecnologia em Análise e Desenvolvimento de Sistemas desde o segundo semestre de 2021 na Unisal.
 
 Meu atual interesse é me tornar desenvolvedor Front-End com foco em JavaScript, TypeScript e ReactJS. 
