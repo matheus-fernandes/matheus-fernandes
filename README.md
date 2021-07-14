@@ -2,7 +2,7 @@
 
 📚 Faço Tecnologia em Análise e Desenvolvimento de Sistemas desde o 2° semestre de 2021 na Unisal aqui em Campinas-SP.
 
-🌱 Estou estudando para me tornar um bom desenvolvedor front-end com foco em JavaScript, TypeScript e ReactJS. 
+🌱 Estou estudando para me tornar desenvolvedor Full Stack com foco em JavaScript, TypeScript, ReactJS e Node.js. 
 
 
 
