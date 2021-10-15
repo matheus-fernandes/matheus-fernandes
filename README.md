@@ -1,4 +1,4 @@
-💻 Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em informática no Cotuca, desde então, adquiri alguns anos de experiência em programação atuando como desenvolvedor Java EE. 
+💻 Sou programador WEB e iniciei meus estudos de programação em 2014 quando ingressei no curso técnico em informática no Cotuca, desde então, adquiri alguns anos de experiência em programação atuando como desenvolvedor Java EE e agora como desenvolvedor Javascript. 
 
 📚 Ingressei no curso de Engenharia Elétrica em 2020 na Unicamp aqui em Campinas-SP.
 
