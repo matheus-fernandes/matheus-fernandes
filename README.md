@@ -4,6 +4,7 @@
 
 :computer_mouse: Atualmente, trabalho como aluno de iniciação científica na Unicamp, desenvolvendo e projetando o software web de um sistema HEMS - Home Energy Management System, por meio das tecnologias ReactJS, Typescript, Node.js, além de ferramentas como Docker, Docker Composer, Git e os bancos de dados MongoDB e InfluxDB.
 
+:keyboard: Como técnico, atuei por 2 anos e 7 meses na MS+, empresa focada na área de gestão de serviços públicos para municípios, onde, ultilizando Java EE, pude criar novas funcionalidades, dar manutenção à aplicações legadas, executar a migração do sistema para tecnologias mais modernas e seguras, além de criar scripts SQL e PL/SQL para executar operações complexas no banco de dados. Nesse período além de Java atuei com Javascript, HTML e CSS, com os frameworks JSF, JPA, Bootstrap e também com o banco de dados relacional da Oracle.
 
 🌱 Estou constantemente estudando para aprimorar meus conhecimentos em programação, seja em linguagens como Java e Javascript, em frameworks como ReactJS e em conceitos fundamentais de programação como Orientação a Objetos e Clean Code. 
 
