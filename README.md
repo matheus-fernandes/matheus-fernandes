@@ -2,7 +2,7 @@
 
 :books: Ingressei no curso de Engenharia Elétrica em 2020 na Unicamp aqui em Campinas-SP.
 
-:computer_mouse: Atualmente, trabalho como aluno de iniciação científica na Unicamp, desenvolvendo e projetando o software web de um sistema HEMS - Home Energy Management System, por meio das tecnologias ReactJS, Typescript, Node.js, além de ferramentas como Docker, Docker Compose, Git e os bancos de dados MongoDB e InfluxDB.
+:computer_mouse: Atualmente, trabalho como aluno de iniciação científica na Unicamp, coordenando uma equipe de mais dois programadores, além de desenvolver e projetar o software web que consiste em um sistema HEMS - Home Energy Management System, por meio das tecnologias ReactJS, Typescript, Node.js, MQTT e também de ferramentas como Docker, Docker Compose, Git e os bancos de dados MongoDB e InfluxDB.
 
 :keyboard: Como técnico, atuei por 2 anos e 7 meses na MS+, empresa focada na área de gestão de serviços públicos para municípios, onde, ultilizando Java EE, pude criar novas funcionalidades, dar manutenção à aplicações legadas, executar a migração do sistema para tecnologias mais modernas e seguras, além de criar scripts SQL e PL/SQL para executar operações complexas no banco de dados. Nesse período além de Java atuei com Javascript, HTML e CSS, com os frameworks JSF, JPA, Bootstrap e também com o banco de dados relacional da Oracle.
 
