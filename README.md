@@ -6,9 +6,9 @@
 
 :keyboard: Como técnico, atuei por 2 anos e 7 meses na MS+, empresa focada na área de gestão de serviços públicos para municípios, onde, ultilizando Java EE, pude criar novas funcionalidades, dar manutenção à aplicações legadas, executar a migração do sistema para tecnologias mais modernas e seguras, além de criar scripts SQL e PL/SQL para executar operações complexas no banco de dados. Nesse período além de Java atuei com Javascript, HTML e CSS, com os frameworks JSF, JPA, Bootstrap e também com o banco de dados relacional da Oracle.
 
-🌱 Estou constantemente estudando para aprimorar meus conhecimentos em programação, seja em linguagens como Java e Javascript, em frameworks como ReactJS e em conceitos fundamentais de programação como Orientação a Objetos e Clean Code. 
+🌱 Estou constantemente estudando para aprimorar meus conhecimentos em programação, seja em linguagens como Java e Javascript, em frameworks como ReactJS e em conceitos fundamentais como Programação Orientada a Objetos, Programação Funcional e Clean Code. 
 
-:open_book: No momento, estou iniciando a leitura do livro "Robert C. Martin - Clean Code: A Handbook of Agile Sofware Craftsmanship"
+:open_book: Livros que li e recomendo: "Robert C. Martin - Clean Code: A Handbook of Agile Sofware Craftsmanship"
 
 :bookmark: Pretendo estudar mais sobre os temas: Design Patterns, Web services e Microservices.
 
